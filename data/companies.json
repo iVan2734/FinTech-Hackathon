@@ -1,0 +1,3078 @@
+[
+  {
+    "id": "c139",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.13622868318460665,
+    "name": "Firma 139",
+    "owners": [
+      {
+        "ownerId": "p57",
+        "stake": 0.6133337248303988
+      },
+      {
+        "ownerId": "p11",
+        "stake": 0.38666627516960117
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c137",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.13696644570654573,
+    "name": "Firma 137",
+    "owners": [
+      {
+        "ownerId": "p6",
+        "stake": 0.1515098549290618
+      },
+      {
+        "ownerId": "p53",
+        "stake": 0.8484901450709382
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c136",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.13718289796619426,
+    "name": "Firma 136",
+    "owners": [
+      {
+        "ownerId": "p54",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c134",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.20546501891292043,
+    "name": "Firma 134",
+    "owners": [
+      {
+        "ownerId": "p37",
+        "stake": 0.6510874887369096
+      },
+      {
+        "ownerId": "c120",
+        "stake": 0.14417384516873977
+      },
+      {
+        "ownerId": "p41",
+        "stake": 0.20473866609435065
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p35",
+    "kind": "person",
+    "location": "Wien, AT",
+    "maliciousness": 0.016098436663999155,
+    "name": "Osoba 35",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c131",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.20701989844852928,
+    "name": "Firma 131",
+    "owners": [
+      {
+        "ownerId": "c98",
+        "stake": 0.24468128306458178
+      },
+      {
+        "ownerId": "c57",
+        "stake": 0.4300537520777504
+      },
+      {
+        "ownerId": "p38",
+        "stake": 0.3252649648576678
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p0",
+    "kind": "person",
+    "location": "Wien, AT",
+    "maliciousness": 0.027587821851392764,
+    "name": "Osoba 0",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c129",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.23796110003920842,
+    "name": "Firma 129",
+    "owners": [
+      {
+        "ownerId": "p17",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c126",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.13996410531793832,
+    "name": "Firma 126",
+    "owners": [
+      {
+        "ownerId": "p12",
+        "stake": 0.3340935730902119
+      },
+      {
+        "ownerId": "p2",
+        "stake": 0.6659064269097881
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p22",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.002105947650658103,
+    "name": "Osoba 22",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c125",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.21865609502954453,
+    "name": "Firma 125",
+    "owners": [
+      {
+        "ownerId": "c24",
+        "stake": 0.6450079205343547
+      },
+      {
+        "ownerId": "p23",
+        "stake": 0.35499207946564526
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c122",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.2093293563945549,
+    "name": "Firma 122",
+    "owners": [
+      {
+        "ownerId": "p21",
+        "stake": 0.4277600315845208
+      },
+      {
+        "ownerId": "p5",
+        "stake": 0.1180244049559977
+      },
+      {
+        "ownerId": "p20",
+        "stake": 0.4542155634594815
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c14",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.07379443468101748,
+    "name": "Firma 14",
+    "owners": [
+      {
+        "ownerId": "p51",
+        "stake": 0.44650152118366665
+      },
+      {
+        "ownerId": "c12",
+        "stake": 0.26218245442304816
+      },
+      {
+        "ownerId": "p32",
+        "stake": 0.29131602439328513
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c116",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.11486771388835329,
+    "name": "Firma 116",
+    "owners": [
+      {
+        "ownerId": "c37",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c60",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.10350559688220062,
+    "name": "Firma 60",
+    "owners": [
+      {
+        "ownerId": "p5",
+        "stake": 0.23024950614984252
+      },
+      {
+        "ownerId": "p35",
+        "stake": 0.26768704101500806
+      },
+      {
+        "ownerId": "p4",
+        "stake": 0.5020634528351494
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c113",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.11844904037298047,
+    "name": "Firma 113",
+    "owners": [
+      {
+        "ownerId": "c33",
+        "stake": 0.43259273791344377
+      },
+      {
+        "ownerId": "p33",
+        "stake": 0.5674072620865562
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c107",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.046676822043078894,
+    "name": "Firma 107",
+    "owners": [
+      {
+        "ownerId": "p50",
+        "stake": 0.39620318627426215
+      },
+      {
+        "ownerId": "p11",
+        "stake": 0.6037968137257379
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c100",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.2060419772262418,
+    "name": "Firma 100",
+    "owners": [
+      {
+        "ownerId": "p43",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c98",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.1567306416833595,
+    "name": "Firma 98",
+    "owners": [
+      {
+        "ownerId": "p59",
+        "stake": 0.26724456246568534
+      },
+      {
+        "ownerId": "p58",
+        "stake": 0.5256350384846924
+      },
+      {
+        "ownerId": "p49",
+        "stake": 0.2071203990496222
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c97",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.09400392897040782,
+    "name": "Firma 97",
+    "owners": [
+      {
+        "ownerId": "p0",
+        "stake": 0.7579736598405323
+      },
+      {
+        "ownerId": "p44",
+        "stake": 0.24202634015946767
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c92",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.06276683028421855,
+    "name": "Firma 92",
+    "owners": [
+      {
+        "ownerId": "p47",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c47",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.12763469575705685,
+    "name": "Firma 47",
+    "owners": [
+      {
+        "ownerId": "p51",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c90",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.03898307843139715,
+    "name": "Firma 90",
+    "owners": [
+      {
+        "ownerId": "p50",
+        "stake": 0.28765997887741696
+      },
+      {
+        "ownerId": "p24",
+        "stake": 0.5221544022182515
+      },
+      {
+        "ownerId": "p23",
+        "stake": 0.1901856189043315
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p20",
+    "kind": "person",
+    "location": "Limassol, CY",
+    "maliciousness": 0.0009445639889277631,
+    "name": "Osoba 20",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c89",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.14788994946913747,
+    "name": "Firma 89",
+    "owners": [
+      {
+        "ownerId": "p40",
+        "stake": 0.5986127037234235
+      },
+      {
+        "ownerId": "p34",
+        "stake": 0.40138729627657654
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c121",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.2333105380932707,
+    "name": "Firma 121",
+    "owners": [
+      {
+        "ownerId": "c85",
+        "stake": 0.6022145198559231
+      },
+      {
+        "ownerId": "p45",
+        "stake": 0.2429261341038275
+      },
+      {
+        "ownerId": "p16",
+        "stake": 0.1548593460402494
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p51",
+    "kind": "person",
+    "location": "Beograd, RS",
+    "maliciousness": 0.49310899959051274,
+    "name": "Osoba 51",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "c86",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.06803450037923761,
+    "name": "Firma 86",
+    "owners": [
+      {
+        "ownerId": "p51",
+        "stake": 0.18858923466982344
+      },
+      {
+        "ownerId": "p2",
+        "stake": 0.45677431416375913
+      },
+      {
+        "ownerId": "c43",
+        "stake": 0.3546364511664174
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c65",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.22325959752388377,
+    "name": "Firma 65",
+    "owners": [
+      {
+        "ownerId": "c58",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c18",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.21649541456888152,
+    "name": "Firma 18",
+    "owners": [
+      {
+        "ownerId": "p59",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c101",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.09548513842590903,
+    "name": "Firma 101",
+    "owners": [
+      {
+        "ownerId": "c48",
+        "stake": 0.25803864970130735
+      },
+      {
+        "ownerId": "p21",
+        "stake": 0.7419613502986926
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c85",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.1378749326647124,
+    "name": "Firma 85",
+    "owners": [
+      {
+        "ownerId": "p36",
+        "stake": 0.21954084398415932
+      },
+      {
+        "ownerId": "p39",
+        "stake": 0.6014878635629551
+      },
+      {
+        "ownerId": "p7",
+        "stake": 0.17897129245288557
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c111",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.12352095920144572,
+    "name": "Firma 111",
+    "owners": [
+      {
+        "ownerId": "p49",
+        "stake": 0.20920596348469178
+      },
+      {
+        "ownerId": "p5",
+        "stake": 0.4727555434898123
+      },
+      {
+        "ownerId": "p49",
+        "stake": 0.3180384930254959
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c108",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.023627703115346177,
+    "name": "Firma 108",
+    "owners": [
+      {
+        "ownerId": "c72",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c84",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.21903539410705825,
+    "name": "Firma 84",
+    "owners": [
+      {
+        "ownerId": "p20",
+        "stake": 0.7885495936177509
+      },
+      {
+        "ownerId": "p9",
+        "stake": 0.13895702579939517
+      },
+      {
+        "ownerId": "c64",
+        "stake": 0.07249338058285393
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c81",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.1599328482255282,
+    "name": "Firma 81",
+    "owners": [
+      {
+        "ownerId": "p48",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p38",
+    "kind": "person",
+    "location": "Dubai, AE",
+    "maliciousness": 0.0489118610145932,
+    "name": "Osoba 38",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c3",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.1815980719402495,
+    "name": "Firma 3",
+    "owners": [
+      {
+        "ownerId": "p7",
+        "stake": 0.31984904146417564
+      },
+      {
+        "ownerId": "p23",
+        "stake": 0.6801509585358243
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c114",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.013764588899682045,
+    "name": "Firma 114",
+    "owners": [
+      {
+        "ownerId": "c18",
+        "stake": 0.7229968895735062
+      },
+      {
+        "ownerId": "p18",
+        "stake": 0.27700311042649384
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c63",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.1428336638179424,
+    "name": "Firma 63",
+    "owners": [
+      {
+        "ownerId": "p57",
+        "stake": 0.4988979508877531
+      },
+      {
+        "ownerId": "c28",
+        "stake": 0.5011020491122469
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c87",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.04259515621148574,
+    "name": "Firma 87",
+    "owners": [
+      {
+        "ownerId": "p5",
+        "stake": 0.30427262265904026
+      },
+      {
+        "ownerId": "c57",
+        "stake": 0.32633652201382
+      },
+      {
+        "ownerId": "c23",
+        "stake": 0.3693908553271398
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c76",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.06589078504025069,
+    "name": "Firma 76",
+    "owners": [
+      {
+        "ownerId": "c43",
+        "stake": 0.25070221813102533
+      },
+      {
+        "ownerId": "c23",
+        "stake": 0.32038134707264193
+      },
+      {
+        "ownerId": "p26",
+        "stake": 0.42891643479633274
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c135",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.16336671014603066,
+    "name": "Firma 135",
+    "owners": [
+      {
+        "ownerId": "c97",
+        "stake": 0.4561538385841063
+      },
+      {
+        "ownerId": "p49",
+        "stake": 0.1054418667554714
+      },
+      {
+        "ownerId": "c108",
+        "stake": 0.4384042946604223
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c71",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.17772225304725675,
+    "name": "Firma 71",
+    "owners": [
+      {
+        "ownerId": "p56",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c66",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.013765892937727656,
+    "name": "Firma 66",
+    "owners": [
+      {
+        "ownerId": "p16",
+        "stake": 0.6827628800781868
+      },
+      {
+        "ownerId": "c22",
+        "stake": 0.31723711992181325
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c78",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.16601983952911278,
+    "name": "Firma 78",
+    "owners": [
+      {
+        "ownerId": "p12",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c64",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.11671549762189469,
+    "name": "Firma 64",
+    "owners": [
+      {
+        "ownerId": "c57",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c61",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.14343371257232607,
+    "name": "Firma 61",
+    "owners": [
+      {
+        "ownerId": "c16",
+        "stake": 0.7124920626505278
+      },
+      {
+        "ownerId": "p25",
+        "stake": 0.2875079373494722
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c59",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.027416943425319095,
+    "name": "Firma 59",
+    "owners": [
+      {
+        "ownerId": "p41",
+        "stake": 0.6217722747121854
+      },
+      {
+        "ownerId": "c25",
+        "stake": 0.1505014140855343
+      },
+      {
+        "ownerId": "c51",
+        "stake": 0.22772631120228026
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c69",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.06296564874769564,
+    "name": "Firma 69",
+    "owners": [
+      {
+        "ownerId": "p47",
+        "stake": 0.23545392206173896
+      },
+      {
+        "ownerId": "c27",
+        "stake": 0.38407560996349227
+      },
+      {
+        "ownerId": "c32",
+        "stake": 0.38047046797476874
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c53",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.19861435014716297,
+    "name": "Firma 53",
+    "owners": [
+      {
+        "ownerId": "p14",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c48",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.16571596075933684,
+    "name": "Firma 48",
+    "owners": [
+      {
+        "ownerId": "p30",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c46",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.07032484555122952,
+    "name": "Firma 46",
+    "owners": [
+      {
+        "ownerId": "p0",
+        "stake": 0.5527642802581935
+      },
+      {
+        "ownerId": "p43",
+        "stake": 0.18643439838333337
+      },
+      {
+        "ownerId": "p1",
+        "stake": 0.26080132135847317
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c43",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.15195028271040753,
+    "name": "Firma 43",
+    "owners": [
+      {
+        "ownerId": "c19",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c58",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.012989466565885475,
+    "name": "Firma 58",
+    "owners": [
+      {
+        "ownerId": "p43",
+        "stake": 0.3272215208843647
+      },
+      {
+        "ownerId": "c31",
+        "stake": 0.3203353262601296
+      },
+      {
+        "ownerId": "c26",
+        "stake": 0.35244315285550565
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c12",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.034494462581435875,
+    "name": "Firma 12",
+    "owners": [
+      {
+        "ownerId": "p50",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c42",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.23962496511723042,
+    "name": "Firma 42",
+    "owners": [
+      {
+        "ownerId": "c38",
+        "stake": 0.7512102195070445
+      },
+      {
+        "ownerId": "c31",
+        "stake": 0.24878978049295553
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c41",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.22198091526779798,
+    "name": "Firma 41",
+    "owners": [
+      {
+        "ownerId": "p32",
+        "stake": 0.5934528277020839
+      },
+      {
+        "ownerId": "p39",
+        "stake": 0.10717918799028206
+      },
+      {
+        "ownerId": "c23",
+        "stake": 0.2993679843076341
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c39",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.2149826885159192,
+    "name": "Firma 39",
+    "owners": [
+      {
+        "ownerId": "c25",
+        "stake": 0.6743915609144711
+      },
+      {
+        "ownerId": "p37",
+        "stake": 0.2115800945255285
+      },
+      {
+        "ownerId": "c16",
+        "stake": 0.11402834456000044
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c73",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.10072801257353156,
+    "name": "Firma 73",
+    "owners": [
+      {
+        "ownerId": "p56",
+        "stake": 0.11700353223249531
+      },
+      {
+        "ownerId": "p53",
+        "stake": 0.20574233145174486
+      },
+      {
+        "ownerId": "p54",
+        "stake": 0.6772541363157598
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p11",
+    "kind": "person",
+    "location": "London, UK",
+    "maliciousness": 0.10477217158071127,
+    "name": "Osoba 11",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c38",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.17018146133137604,
+    "name": "Firma 38",
+    "owners": [
+      {
+        "ownerId": "c14",
+        "stake": 0.12760492683040908
+      },
+      {
+        "ownerId": "p37",
+        "stake": 0.8723950731695909
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c82",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.016308017363405983,
+    "name": "Firma 82",
+    "owners": [
+      {
+        "ownerId": "p40",
+        "stake": 0.7906616323476103
+      },
+      {
+        "ownerId": "c37",
+        "stake": 0.15438775244913874
+      },
+      {
+        "ownerId": "p47",
+        "stake": 0.054950615203250924
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c96",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.15615708543823403,
+    "name": "Firma 96",
+    "owners": [
+      {
+        "ownerId": "c17",
+        "stake": 0.4456026792383128
+      },
+      {
+        "ownerId": "p50",
+        "stake": 0.5543973207616872
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c37",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.13962850676449662,
+    "name": "Firma 37",
+    "owners": [
+      {
+        "ownerId": "c12",
+        "stake": 0.2511104859943697
+      },
+      {
+        "ownerId": "p55",
+        "stake": 0.5247281995962012
+      },
+      {
+        "ownerId": "p21",
+        "stake": 0.2241613144094291
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c32",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.11630612244718028,
+    "name": "Firma 32",
+    "owners": [
+      {
+        "ownerId": "p54",
+        "stake": 0.20810680488841463
+      },
+      {
+        "ownerId": "p49",
+        "stake": 0.3871113499649329
+      },
+      {
+        "ownerId": "c21",
+        "stake": 0.4047818451466525
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p27",
+    "kind": "person",
+    "location": "Moscow, RU",
+    "maliciousness": 0.05274247884534165,
+    "name": "Osoba 27",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c29",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.05393745259195427,
+    "name": "Firma 29",
+    "owners": [
+      {
+        "ownerId": "p31",
+        "stake": 0.5324085848159544
+      },
+      {
+        "ownerId": "p20",
+        "stake": 0.244229921343696
+      },
+      {
+        "ownerId": "c24",
+        "stake": 0.22336149384034956
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c138",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.1047450525432336,
+    "name": "Firma 138",
+    "owners": [
+      {
+        "ownerId": "p35",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p45",
+    "kind": "person",
+    "location": "Dubai, AE",
+    "maliciousness": 0.07738196588355943,
+    "name": "Osoba 45",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c79",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.13721057494043232,
+    "name": "Firma 79",
+    "owners": [
+      {
+        "ownerId": "p3",
+        "stake": 0.31160359842985114
+      },
+      {
+        "ownerId": "p4",
+        "stake": 0.6883964015701489
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p12",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.4475241956230811,
+    "name": "Osoba 12",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "c28",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.12386072916217193,
+    "name": "Firma 28",
+    "owners": [
+      {
+        "ownerId": "c18",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c27",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.05620684154937362,
+    "name": "Firma 27",
+    "owners": [
+      {
+        "ownerId": "p49",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c25",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.22636290513091123,
+    "name": "Firma 25",
+    "owners": [
+      {
+        "ownerId": "p37",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c36",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.07939349790517486,
+    "name": "Firma 36",
+    "owners": [
+      {
+        "ownerId": "c13",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c102",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.2397080979463154,
+    "name": "Firma 102",
+    "owners": [
+      {
+        "ownerId": "p54",
+        "stake": 0.7608923866368207
+      },
+      {
+        "ownerId": "p30",
+        "stake": 0.17995460386920287
+      },
+      {
+        "ownerId": "c17",
+        "stake": 0.05915300949397645
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c20",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.009345094299705228,
+    "name": "Firma 20",
+    "owners": [
+      {
+        "ownerId": "p46",
+        "stake": 0.7995899203707103
+      },
+      {
+        "ownerId": "p38",
+        "stake": 0.2004100796292897
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p15",
+    "kind": "person",
+    "location": "London, UK",
+    "maliciousness": 0.12152841118092225,
+    "name": "Osoba 15",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p31",
+    "kind": "person",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.10812930808326891,
+    "name": "Osoba 31",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c23",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.12748472587040177,
+    "name": "Firma 23",
+    "owners": [
+      {
+        "ownerId": "c3",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c119",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.0741390320353777,
+    "name": "Firma 119",
+    "owners": [
+      {
+        "ownerId": "p15",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c123",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.01823115619477739,
+    "name": "Firma 123",
+    "owners": [
+      {
+        "ownerId": "p59",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c52",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.07754038413179204,
+    "name": "Firma 52",
+    "owners": [
+      {
+        "ownerId": "p49",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p19",
+    "kind": "person",
+    "location": "Dubai, AE",
+    "maliciousness": 0.5306441747237028,
+    "name": "Osoba 19",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "c21",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.07369457307631076,
+    "name": "Firma 21",
+    "owners": [
+      {
+        "ownerId": "p42",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c56",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.1335093709545061,
+    "name": "Firma 56",
+    "owners": [
+      {
+        "ownerId": "p51",
+        "stake": 0.3517177240364627
+      },
+      {
+        "ownerId": "p26",
+        "stake": 0.36939823369583613
+      },
+      {
+        "ownerId": "c7",
+        "stake": 0.27888404226770125
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c17",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.033735565991791165,
+    "name": "Firma 17",
+    "owners": [
+      {
+        "ownerId": "c8",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c15",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.09199570901584232,
+    "name": "Firma 15",
+    "owners": [
+      {
+        "ownerId": "p20",
+        "stake": 0.4302581622008613
+      },
+      {
+        "ownerId": "c5",
+        "stake": 0.5697418377991387
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c49",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.16957148723001758,
+    "name": "Firma 49",
+    "owners": [
+      {
+        "ownerId": "p6",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c26",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.07353361109250833,
+    "name": "Firma 26",
+    "owners": [
+      {
+        "ownerId": "p39",
+        "stake": 0.41234046001048785
+      },
+      {
+        "ownerId": "p28",
+        "stake": 0.11001622446455563
+      },
+      {
+        "ownerId": "p56",
+        "stake": 0.47764331552495654
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c117",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.034544342512915785,
+    "name": "Firma 117",
+    "owners": [
+      {
+        "ownerId": "p29",
+        "stake": 0.74685742935296
+      },
+      {
+        "ownerId": "p38",
+        "stake": 0.11540769627906743
+      },
+      {
+        "ownerId": "p45",
+        "stake": 0.1377348743679726
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c11",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.11827031949197565,
+    "name": "Firma 11",
+    "owners": [
+      {
+        "ownerId": "c9",
+        "stake": 0.12600180762655908
+      },
+      {
+        "ownerId": "p7",
+        "stake": 0.23682921191691178
+      },
+      {
+        "ownerId": "p31",
+        "stake": 0.6371689804565291
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p17",
+    "kind": "person",
+    "location": "Moscow, RU",
+    "maliciousness": 0.06890598073692375,
+    "name": "Osoba 17",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c9",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.06899482210586656,
+    "name": "Firma 9",
+    "owners": [
+      {
+        "ownerId": "p18",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c94",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.06725690590188912,
+    "name": "Firma 94",
+    "owners": [
+      {
+        "ownerId": "c2",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c80",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.060071125038800015,
+    "name": "Firma 80",
+    "owners": [
+      {
+        "ownerId": "p7",
+        "stake": 0.239956543636929
+      },
+      {
+        "ownerId": "p59",
+        "stake": 0.27409950100621794
+      },
+      {
+        "ownerId": "p3",
+        "stake": 0.4859439553568531
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c8",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.11556046764998307,
+    "name": "Firma 8",
+    "owners": [
+      {
+        "ownerId": "c7",
+        "stake": 0.7442487662976016
+      },
+      {
+        "ownerId": "c4",
+        "stake": 0.13992432291654977
+      },
+      {
+        "ownerId": "p0",
+        "stake": 0.11582691078584861
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c51",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.018991352754516147,
+    "name": "Firma 51",
+    "owners": [
+      {
+        "ownerId": "p29",
+        "stake": 0.18830876856864215
+      },
+      {
+        "ownerId": "p23",
+        "stake": 0.44705750356138524
+      },
+      {
+        "ownerId": "p44",
+        "stake": 0.36463372786997256
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c22",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.16852871510773776,
+    "name": "Firma 22",
+    "owners": [
+      {
+        "ownerId": "c11",
+        "stake": 0.7627056052664404
+      },
+      {
+        "ownerId": "p2",
+        "stake": 0.16128374976241414
+      },
+      {
+        "ownerId": "c4",
+        "stake": 0.07601064497114549
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c5",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.05517811345694285,
+    "name": "Firma 5",
+    "owners": [
+      {
+        "ownerId": "c2",
+        "stake": 0.6559407014706791
+      },
+      {
+        "ownerId": "p49",
+        "stake": 0.34405929852932093
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p26",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.13917712983561403,
+    "name": "Osoba 26",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c93",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.059669077768468,
+    "name": "Firma 93",
+    "owners": [
+      {
+        "ownerId": "c12",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c30",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.1114884565344458,
+    "name": "Firma 30",
+    "owners": [
+      {
+        "ownerId": "c22",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c4",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.07986381439018134,
+    "name": "Firma 4",
+    "owners": [
+      {
+        "ownerId": "c3",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c2",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.24729925131719227,
+    "name": "Firma 2",
+    "owners": [
+      {
+        "ownerId": "c1",
+        "stake": 0.7771024626474907
+      },
+      {
+        "ownerId": "p45",
+        "stake": 0.22289753735250928
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c0",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.055532082128367403,
+    "name": "Firma 0",
+    "owners": [
+      {
+        "ownerId": "p21",
+        "stake": 0.36153432069921637
+      },
+      {
+        "ownerId": "p21",
+        "stake": 0.40288128882637675
+      },
+      {
+        "ownerId": "p13",
+        "stake": 0.23558439047440694
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c31",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.1567334932993852,
+    "name": "Firma 31",
+    "owners": [
+      {
+        "ownerId": "c19",
+        "stake": 0.7052346298477821
+      },
+      {
+        "ownerId": "p38",
+        "stake": 0.29476537015221793
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p59",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.10223871991220815,
+    "name": "Osoba 59",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p30",
+    "kind": "person",
+    "location": "Dubai, AE",
+    "maliciousness": 0.09868474941277079,
+    "name": "Osoba 30",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c62",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.21084680699446207,
+    "name": "Firma 62",
+    "owners": [
+      {
+        "ownerId": "c3",
+        "stake": 0.5232474787240757
+      },
+      {
+        "ownerId": "c55",
+        "stake": 0.47675252127592427
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p6",
+    "kind": "person",
+    "location": "Zurich, CH",
+    "maliciousness": 0.08345959530696886,
+    "name": "Osoba 6",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p54",
+    "kind": "person",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.0005368871676259609,
+    "name": "Osoba 54",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c16",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.20656815687412367,
+    "name": "Firma 16",
+    "owners": [
+      {
+        "ownerId": "p13",
+        "stake": 0.11407151721736976
+      },
+      {
+        "ownerId": "c10",
+        "stake": 0.36218473097316195
+      },
+      {
+        "ownerId": "p59",
+        "stake": 0.5237437518094683
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p58",
+    "kind": "person",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.12816203427073203,
+    "name": "Osoba 58",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c83",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.2191476120622603,
+    "name": "Firma 83",
+    "owners": [
+      {
+        "ownerId": "p7",
+        "stake": 0.5712415461482806
+      },
+      {
+        "ownerId": "c4",
+        "stake": 0.4287584538517194
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p57",
+    "kind": "person",
+    "location": "Wien, AT",
+    "maliciousness": 0.06322252652832913,
+    "name": "Osoba 57",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c1",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.20971642527569268,
+    "name": "Firma 1",
+    "owners": [
+      {
+        "ownerId": "p14",
+        "stake": 0.5179097782461133
+      },
+      {
+        "ownerId": "p44",
+        "stake": 0.4820902217538867
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p56",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.1329264402814198,
+    "name": "Osoba 56",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p36",
+    "kind": "person",
+    "location": "Limassol, CY",
+    "maliciousness": 0.3943698124961966,
+    "name": "Osoba 36",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "c19",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.1030906747957277,
+    "name": "Firma 19",
+    "owners": [
+      {
+        "ownerId": "p40",
+        "stake": 0.5777930784842326
+      },
+      {
+        "ownerId": "p5",
+        "stake": 0.42220692151576744
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p55",
+    "kind": "person",
+    "location": "London, UK",
+    "maliciousness": 0.06809923078089793,
+    "name": "Osoba 55",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c112",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.032014615589654426,
+    "name": "Firma 112",
+    "owners": [
+      {
+        "ownerId": "c69",
+        "stake": 0.6019662466888994
+      },
+      {
+        "ownerId": "p54",
+        "stake": 0.13262281053306937
+      },
+      {
+        "ownerId": "p3",
+        "stake": 0.26541094277803123
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p50",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.10947171385112991,
+    "name": "Osoba 50",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c74",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.16560915839584422,
+    "name": "Firma 74",
+    "owners": [
+      {
+        "ownerId": "c62",
+        "stake": 0.3545939618778522
+      },
+      {
+        "ownerId": "p19",
+        "stake": 0.3416588859950589
+      },
+      {
+        "ownerId": "p27",
+        "stake": 0.3037471521270889
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c34",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.010001771315957609,
+    "name": "Firma 34",
+    "owners": [
+      {
+        "ownerId": "c26",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c110",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.18486148439745725,
+    "name": "Firma 110",
+    "owners": [
+      {
+        "ownerId": "p3",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c109",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.12069799975226278,
+    "name": "Firma 109",
+    "owners": [
+      {
+        "ownerId": "c54",
+        "stake": 0.7213780464255354
+      },
+      {
+        "ownerId": "c43",
+        "stake": 0.22193519588970448
+      },
+      {
+        "ownerId": "p32",
+        "stake": 0.05668675768476014
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c104",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.22830405112761826,
+    "name": "Firma 104",
+    "owners": [
+      {
+        "ownerId": "c93",
+        "stake": 0.7519153768925504
+      },
+      {
+        "ownerId": "p56",
+        "stake": 0.18585841821740476
+      },
+      {
+        "ownerId": "p47",
+        "stake": 0.06222620489004485
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c72",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.13843447522746727,
+    "name": "Firma 72",
+    "owners": [
+      {
+        "ownerId": "p33",
+        "stake": 0.4394966686474887
+      },
+      {
+        "ownerId": "c13",
+        "stake": 0.4059257025338303
+      },
+      {
+        "ownerId": "p39",
+        "stake": 0.15457762881868098
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c67",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.032481930024119005,
+    "name": "Firma 67",
+    "owners": [
+      {
+        "ownerId": "p54",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c70",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.15579311328625337,
+    "name": "Firma 70",
+    "owners": [
+      {
+        "ownerId": "p47",
+        "stake": 0.6116310344680951
+      },
+      {
+        "ownerId": "p43",
+        "stake": 0.3883689655319049
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c50",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.12156324893337454,
+    "name": "Firma 50",
+    "owners": [
+      {
+        "ownerId": "p39",
+        "stake": 0.5226698260012325
+      },
+      {
+        "ownerId": "p41",
+        "stake": 0.47733017399876754
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p49",
+    "kind": "person",
+    "location": "Limassol, CY",
+    "maliciousness": 0.13700743659969045,
+    "name": "Osoba 49",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p48",
+    "kind": "person",
+    "location": "Limassol, CY",
+    "maliciousness": 0.4457532670147337,
+    "name": "Osoba 48",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "p9",
+    "kind": "person",
+    "location": "Zurich, CH",
+    "maliciousness": 0.04775305974741983,
+    "name": "Osoba 9",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c99",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.11753283011277699,
+    "name": "Firma 99",
+    "owners": [
+      {
+        "ownerId": "p20",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c68",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.1617022084219624,
+    "name": "Firma 68",
+    "owners": [
+      {
+        "ownerId": "p30",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p46",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.09228647725209913,
+    "name": "Osoba 46",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c44",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.23955097875065123,
+    "name": "Firma 44",
+    "owners": [
+      {
+        "ownerId": "p8",
+        "stake": 0.3949001949152973
+      },
+      {
+        "ownerId": "p42",
+        "stake": 0.6050998050847027
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c132",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.21933254955849196,
+    "name": "Firma 132",
+    "owners": [
+      {
+        "ownerId": "c44",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p44",
+    "kind": "person",
+    "location": "Beograd, RS",
+    "maliciousness": 0.10235345792785923,
+    "name": "Osoba 44",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p42",
+    "kind": "person",
+    "location": "Moscow, RU",
+    "maliciousness": 0.0663440539462341,
+    "name": "Osoba 42",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p28",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.01240299903452149,
+    "name": "Osoba 28",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p24",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.015078310428391264,
+    "name": "Osoba 24",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c127",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.20022273707152097,
+    "name": "Firma 127",
+    "owners": [
+      {
+        "ownerId": "p59",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p29",
+    "kind": "person",
+    "location": "Beograd, RS",
+    "maliciousness": 0.11892010486174845,
+    "name": "Osoba 29",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p41",
+    "kind": "person",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.10666739233509073,
+    "name": "Osoba 41",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p40",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.012485368981352354,
+    "name": "Osoba 40",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p52",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.02477987562572787,
+    "name": "Osoba 52",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c115",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.12581385683691168,
+    "name": "Firma 115",
+    "owners": [
+      {
+        "ownerId": "c79",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p37",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.006407296579371073,
+    "name": "Osoba 37",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c33",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.1757880072378725,
+    "name": "Firma 33",
+    "owners": [
+      {
+        "ownerId": "p2",
+        "stake": 0.7894377880522921
+      },
+      {
+        "ownerId": "p0",
+        "stake": 0.14905783948693127
+      },
+      {
+        "ownerId": "c30",
+        "stake": 0.061504372460776585
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c57",
+    "kind": "business",
+    "location": "Dubai, AE",
+    "maliciousness": 0.13698511513589817,
+    "name": "Firma 57",
+    "owners": [
+      {
+        "ownerId": "p46",
+        "stake": 0.35864207236575685
+      },
+      {
+        "ownerId": "c12",
+        "stake": 0.3696607595916687
+      },
+      {
+        "ownerId": "p30",
+        "stake": 0.27169716804257443
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p34",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.11727556534409987,
+    "name": "Osoba 34",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c54",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.04346020362307315,
+    "name": "Firma 54",
+    "owners": [
+      {
+        "ownerId": "p10",
+        "stake": 0.2922622323636896
+      },
+      {
+        "ownerId": "p31",
+        "stake": 0.4860937345013131
+      },
+      {
+        "ownerId": "c3",
+        "stake": 0.22164403313499725
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c91",
+    "kind": "business",
+    "location": "Beograd, RS",
+    "maliciousness": 0.07129275675402968,
+    "name": "Firma 91",
+    "owners": [
+      {
+        "ownerId": "p47",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c75",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.23882062304190121,
+    "name": "Firma 75",
+    "owners": [
+      {
+        "ownerId": "c28",
+        "stake": 0.40737711437589846
+      },
+      {
+        "ownerId": "p34",
+        "stake": 0.5926228856241016
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c106",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.23592300883850514,
+    "name": "Firma 106",
+    "owners": [
+      {
+        "ownerId": "p25",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c118",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.04059152581785448,
+    "name": "Firma 118",
+    "owners": [
+      {
+        "ownerId": "c113",
+        "stake": 0.1048002223284336
+      },
+      {
+        "ownerId": "p36",
+        "stake": 0.8951997776715664
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p33",
+    "kind": "person",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.009796118712431696,
+    "name": "Osoba 33",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p32",
+    "kind": "person",
+    "location": "Zurich, CH",
+    "maliciousness": 0.033986257124165746,
+    "name": "Osoba 32",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p5",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.09846167717387277,
+    "name": "Osoba 5",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c35",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.12228179623207727,
+    "name": "Firma 35",
+    "owners": [
+      {
+        "ownerId": "c14",
+        "stake": 0.6643745722170666
+      },
+      {
+        "ownerId": "p35",
+        "stake": 0.33562542778293336
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c128",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.036030839640114075,
+    "name": "Firma 128",
+    "owners": [
+      {
+        "ownerId": "p34",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c77",
+    "kind": "business",
+    "location": "Valletta, MT",
+    "maliciousness": 0.23505901655228917,
+    "name": "Firma 77",
+    "owners": [
+      {
+        "ownerId": "p25",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p43",
+    "kind": "person",
+    "location": "Moscow, RU",
+    "maliciousness": 0.1423243233687126,
+    "name": "Osoba 43",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p21",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.056601742960207764,
+    "name": "Osoba 21",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c40",
+    "kind": "business",
+    "location": "Riga, LV",
+    "maliciousness": 0.1664891176932057,
+    "name": "Firma 40",
+    "owners": [
+      {
+        "ownerId": "p0",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c10",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.014799905688569832,
+    "name": "Firma 10",
+    "owners": [
+      {
+        "ownerId": "p16",
+        "stake": 0.5674374362042381
+      },
+      {
+        "ownerId": "c9",
+        "stake": 0.43256256379576186
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p53",
+    "kind": "person",
+    "location": "Dubai, AE",
+    "maliciousness": 0.5638114088641674,
+    "name": "Osoba 53",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "c124",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.09714418427199939,
+    "name": "Firma 124",
+    "owners": [
+      {
+        "ownerId": "p15",
+        "stake": 0.4691272259867157
+      },
+      {
+        "ownerId": "c79",
+        "stake": 0.1855205321774967
+      },
+      {
+        "ownerId": "c52",
+        "stake": 0.34535224183578767
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p39",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.34288350503919746,
+    "name": "Osoba 39",
+    "owners": [],
+    "sanctioned": true
+  },
+  {
+    "id": "c105",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.07292078748291853,
+    "name": "Firma 105",
+    "owners": [
+      {
+        "ownerId": "p20",
+        "stake": 0.706223696139575
+      },
+      {
+        "ownerId": "c16",
+        "stake": 0.29377630386042497
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p2",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.13856072328006303,
+    "name": "Osoba 2",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c130",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.22934313475916993,
+    "name": "Firma 130",
+    "owners": [
+      {
+        "ownerId": "p14",
+        "stake": 0.5106660810841416
+      },
+      {
+        "ownerId": "p2",
+        "stake": 0.26082626992522273
+      },
+      {
+        "ownerId": "c126",
+        "stake": 0.2285076489906357
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c7",
+    "kind": "business",
+    "location": "Moscow, RU",
+    "maliciousness": 0.09278298362209128,
+    "name": "Firma 7",
+    "owners": [
+      {
+        "ownerId": "p57",
+        "stake": 0.11462698085894513
+      },
+      {
+        "ownerId": "p52",
+        "stake": 0.541199434864101
+      },
+      {
+        "ownerId": "c3",
+        "stake": 0.3441735842769539
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p13",
+    "kind": "person",
+    "location": "Beograd, RS",
+    "maliciousness": 0.1462370384692808,
+    "name": "Osoba 13",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p47",
+    "kind": "person",
+    "location": "Dubai, AE",
+    "maliciousness": 0.11476666549274336,
+    "name": "Osoba 47",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c95",
+    "kind": "business",
+    "location": "Nicosia, CY",
+    "maliciousness": 0.12351171453606241,
+    "name": "Firma 95",
+    "owners": [
+      {
+        "ownerId": "p38",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c45",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.14499696964771608,
+    "name": "Firma 45",
+    "owners": [
+      {
+        "ownerId": "c12",
+        "stake": 0.5220254510735041
+      },
+      {
+        "ownerId": "p17",
+        "stake": 0.21428989156680175
+      },
+      {
+        "ownerId": "p10",
+        "stake": 0.26368465735969415
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p23",
+    "kind": "person",
+    "location": "Beograd, RS",
+    "maliciousness": 0.08525912266971317,
+    "name": "Osoba 23",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c120",
+    "kind": "business",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.2253980778178917,
+    "name": "Firma 120",
+    "owners": [
+      {
+        "ownerId": "p11",
+        "stake": 0.5954286623482216
+      },
+      {
+        "ownerId": "p16",
+        "stake": 0.40457133765177844
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c24",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.1957268725432932,
+    "name": "Firma 24",
+    "owners": [
+      {
+        "ownerId": "p24",
+        "stake": 0.24083630272327158
+      },
+      {
+        "ownerId": "c20",
+        "stake": 0.24253958823149688
+      },
+      {
+        "ownerId": "c2",
+        "stake": 0.5166241090452315
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p16",
+    "kind": "person",
+    "location": "Wien, AT",
+    "maliciousness": 0.062283334946921676,
+    "name": "Osoba 16",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p25",
+    "kind": "person",
+    "location": "Moscow, RU",
+    "maliciousness": 0.08603048430440612,
+    "name": "Osoba 25",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c6",
+    "kind": "business",
+    "location": "Limassol, CY",
+    "maliciousness": 0.09165899229839387,
+    "name": "Firma 6",
+    "owners": [
+      {
+        "ownerId": "c0",
+        "stake": 0.41980865113564336
+      },
+      {
+        "ownerId": "p14",
+        "stake": 0.28078674840311313
+      },
+      {
+        "ownerId": "p48",
+        "stake": 0.2994046004612435
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c13",
+    "kind": "business",
+    "location": "London, UK",
+    "maliciousness": 0.17367889033255002,
+    "name": "Firma 13",
+    "owners": [
+      {
+        "ownerId": "c10",
+        "stake": 0.6721040784313307
+      },
+      {
+        "ownerId": "p35",
+        "stake": 0.11689789693611642
+      },
+      {
+        "ownerId": "p20",
+        "stake": 0.2109980246325529
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p18",
+    "kind": "person",
+    "location": "Beograd, RS",
+    "maliciousness": 0.13698886831447202,
+    "name": "Osoba 18",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p7",
+    "kind": "person",
+    "location": "Novi Sad, RS",
+    "maliciousness": 0.10761804210975189,
+    "name": "Osoba 7",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c103",
+    "kind": "business",
+    "location": "Zurich, CH",
+    "maliciousness": 0.000266390812611543,
+    "name": "Firma 103",
+    "owners": [
+      {
+        "ownerId": "p59",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "c88",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.04240557346647022,
+    "name": "Firma 88",
+    "owners": [
+      {
+        "ownerId": "c74",
+        "stake": 0.570204195988903
+      },
+      {
+        "ownerId": "p40",
+        "stake": 0.15852472540317133
+      },
+      {
+        "ownerId": "p14",
+        "stake": 0.27127107860792565
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p3",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.11215722095762519,
+    "name": "Osoba 3",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p14",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.10923992773094178,
+    "name": "Osoba 14",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p1",
+    "kind": "person",
+    "location": "Gotham, US",
+    "maliciousness": 0.07981168748465338,
+    "name": "Osoba 1",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c55",
+    "kind": "business",
+    "location": "Wien, AT",
+    "maliciousness": 0.09821561419271214,
+    "name": "Firma 55",
+    "owners": [
+      {
+        "ownerId": "c48",
+        "stake": 1.0
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p10",
+    "kind": "person",
+    "location": "Riga, LV",
+    "maliciousness": 0.025637138946800364,
+    "name": "Osoba 10",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "c133",
+    "kind": "business",
+    "location": "Gotham, US",
+    "maliciousness": 0.17072293602435754,
+    "name": "Firma 133",
+    "owners": [
+      {
+        "ownerId": "p5",
+        "stake": 0.5885900804142837
+      },
+      {
+        "ownerId": "p11",
+        "stake": 0.14002561967564442
+      },
+      {
+        "ownerId": "c76",
+        "stake": 0.27138429991007185
+      }
+    ],
+    "sanctioned": false
+  },
+  {
+    "id": "p8",
+    "kind": "person",
+    "location": "Limassol, CY",
+    "maliciousness": 0.06594669128620116,
+    "name": "Osoba 8",
+    "owners": [],
+    "sanctioned": false
+  },
+  {
+    "id": "p4",
+    "kind": "person",
+    "location": "Wien, AT",
+    "maliciousness": 0.3874507165985453,
+    "name": "Osoba 4",
+    "owners": [],
+    "sanctioned": true
+  }
+]

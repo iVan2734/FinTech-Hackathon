@@ -1,0 +1,5 @@
+/Users/ivanristovic/Desktop/FinTech/build/CMakeFiles/fintech_server.dir
+/Users/ivanristovic/Desktop/FinTech/build/CMakeFiles/risk_tests.dir
+/Users/ivanristovic/Desktop/FinTech/build/CMakeFiles/gen_data.dir
+/Users/ivanristovic/Desktop/FinTech/build/CMakeFiles/edit_cache.dir
+/Users/ivanristovic/Desktop/FinTech/build/CMakeFiles/rebuild_cache.dir

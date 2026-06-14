@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FinTech — P2B / B2B Risk Console</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- LOGIN -->
+  <div id="login-screen" class="login-wrap">
+    <div class="login-card">
+      <div class="brand"><span>Pelinkovic RiskEngine</span></div>
+      <p class="sub">Detekcija rizicnih P2B / B2B transakcija</p>
+      <input id="login-user" placeholder="Korisnicko ime" autocomplete="username" />
+      <input id="login-pass" type="password" placeholder="Lozinka" autocomplete="current-password" />
+      <button id="login-btn">Prijavi se</button>
+      <p id="login-err" class="err"></p>
+      <div class="demo">
+        Demo: <code>user / user</code> &nbsp;•&nbsp; <code>reviewer / reviewer</code>
+      </div>
+    </div>
+  </div>
+
+  <!-- APP -->
+  <div id="app" class="hidden">
+    <header class="topbar">
+      <div class="brand sm"><span>Pelinkovic RiskEngine</span></div>
+      <nav id="nav">
+        <button data-view="transaction" class="active">Nova transakcija</button>
+        <button data-view="lookup" class="reviewer-only">Pretraga firme</button>
+        <button data-view="graph" class="reviewer-only">Graf mreže</button>
+        <button data-view="review" class="reviewer-only">Manual review</button>
+      </nav>
+      <div class="user">
+        <span id="who"></span>
+        <button id="logout" class="ghost">Odjava</button>
+      </div>
+    </header>
+
+    <main class="container">
+      <!-- TRANSACTION -->
+      <section id="view-transaction" class="view">
+        <div class="card">
+          <h2>Nova transakcija</h2>
+          <div class="grid2">
+            <label>Posiljalac <select id="tx-from"></select></label>
+            <label>Primalac <select id="tx-to"></select></label>
+            <label>Iznos (€) <input id="tx-amount" type="number" value="5000" min="0" /></label>
+          </div>
+          <button id="tx-btn">Pokreni transakciju</button>
+          <div id="tx-result"></div>
+        </div>
+      </section>
+
+      <!-- LOOKUP -->
+      <section id="view-lookup" class="view hidden">
+        <div class="card">
+          <h2>Pretraga ucesnika</h2>
+          <label>Izaberi firmu / osobu <select id="lk-select"></select></label>
+        </div>
+        <div id="lk-profile"></div>
+      </section>
+
+      <!-- GRAPH -->
+      <section id="view-graph" class="view hidden">
+        <div class="card">
+          <div class="row-between">
+            <h2>Graf mreže — vlasništvo i transakcije</h2>
+            <div style="display:flex; gap:10px; align-items:flex-end">
+              <label style="margin:0">Dubina
+                <select id="gr-depth">
+                  <option value="1">1</option>
+                  <option value="2" selected>2</option>
+                  <option value="3">3</option>
+                </select>
+              </label>
+              <label style="margin:0; min-width:220px">Centriraj na
+                <select id="gr-select"></select>
+              </label>
+            </div>
+          </div>
+          <p class="hint"><b>Vlasnička struktura firme</b> (odozgo nadole): fokus firma → njeni vlasnici → vlasnici vlasnika. Veličina čvora ∝ vlasnički udeo, boja = rizik (zeleno→narandžasto→crveno), <b style="color:#e03131">crveni obrub</b> = sankcionisan, <b style="color:#f08c00">narandžasti obrub</b> = sankcionisano-kontrolisan (&gt;20%). ⭕ firma · ▢ osoba. Klikni <b>firmu</b> da uđeš u njenu strukturu (osobe su krajnji vlasnici).</p>
+          <div id="graph-canvas"></div>
+        </div>
+      </section>
+
+      <!-- REVIEW -->
+      <section id="view-review" class="view hidden">
+        <div class="card">
+          <div class="row-between">
+            <h2>Manual review — red blokiranih transakcija</h2>
+            <button id="review-refresh" class="ghost">Osveži</button>
+          </div>
+          <p class="hint">Blokirane transakcije koje čekaju odluku (najnovije prvo). „MC relevantnost" = koliko Monte Carlo izdvaja tu granu kao rizičnu. Presudi: <b>Fraud</b> ili <b>OK</b>.</p>
+          <div id="review-meta"></div>
+          <div class="table-wrap">
+            <table id="queue-table">
+              <thead>
+                <tr><th>Grana</th><th>Tip</th><th>Iznos</th><th>Status</th><th>Rizik</th><th>MC relevantnost</th><th>Odluka</th></tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Najrizičnije grane (Monte Carlo rangiranje)</h2>
+          <p class="hint">Grane rangirane po tome koliko su puta „iskočile" tokom Monte Carlo uzorkovanja po prekalkulisanim težinama.</p>
+          <div class="table-wrap">
+            <table id="review-table">
+              <thead>
+                <tr><th>#</th><th>Grana</th><th>Težina</th><th>MC hits</th><th>Tx</th><th>Blokirano</th><th>Σ iznos</th></tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

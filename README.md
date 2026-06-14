@@ -31,7 +31,7 @@ Demo nalozi: `user / user` (obican korisnik), `reviewer / reviewer` (manual revi
 | POST | `/api/review/decision` | `{txId, decision: "cleared"\|"fraud"}` |
 
 ## Kako radi rizik
-`RiskEngine::computeRisk` racuna verovatnocu po iznosu, nepoznatom partneru, tipu
+`RiskEngine::computeRisk` racuna verovatnocu po iznosu nepoznatom partneru, tipu
 (P2B/B2B) i strukturiranim iznosima. Transakcije iznad praga (0.60) se blokiraju.
 `monteCarloReview` bira grane proporcionalno riziku (roulette-wheel) i radi kratke
 slucajne setnje niz lance firmi — grane koje iskoce najcesce idu na vrh review liste.
